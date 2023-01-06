@@ -1,0 +1,5 @@
+D:\Visual\Projects\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+D:\Visual\Projects\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual\Projects\Calculator\x64\Debug\Calculator.Calculator_YE.resources
+D:\Visual\Projects\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+D:\Visual\Projects\Calculator\x64\Debug\Calculator.exe
